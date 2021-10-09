@@ -1,4 +1,5 @@
 #### Random Name Generator
+- ignore the folder "pfpgenerator" i wanted to make it a pfp gen but i decided to make a name gen so yea
 - btw this is just a example on how to use WebClient in C#
 
 # Preview
